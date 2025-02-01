@@ -13,3 +13,7 @@ The program is built using:
 - **Object-Oriented Programming (OOP)**: For effective code organization and maintainability.
 - **`std::queue` from the Standard Template Library (STL)**: To manage queue operations.
 - **`clsDate` Library**: To handle date and time functionalities.
+
+# Author
+This project was developed by [AHMAD SHABLAKH].
+Contact: [ahmadshablakh.swi@gmail.com]

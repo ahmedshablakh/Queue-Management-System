@@ -15,5 +15,5 @@ The program is built using:
 - **`clsDate` Library**: To handle date and time functionalities.
 
 # Author
-This project was developed by [AHMAD SHABLAKH].
-Contact: [ahmadshablakh.swi@gmail.com]
+-This project was developed by [AHMAD SHABLAKH].
+-Contact: [ahmadshablakh.swi@gmail.com]

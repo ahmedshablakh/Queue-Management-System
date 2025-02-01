@@ -1,0 +1,3 @@
+﻿  Queue-Management-System.cpp
+C:\c++_project\Algorithms-Problem-Solving-Level_5\Queue-Management-System\Queue-Management-System\clsQueueLine.h(101,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Queue-Management-System.vcxproj -> C:\c++_project\Algorithms-Problem-Solving-Level_5\Queue-Management-System\x64\Debug\Queue-Management-System.exe
